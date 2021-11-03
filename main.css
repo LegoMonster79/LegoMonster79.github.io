@@ -2,11 +2,11 @@ header{
 	background-color: #808080;
 }
 
-.main-body {
+div.main-body {
 	background-color: #c0c0c0;
 }
 
-.social-icon {
+a.social-icon {
 	padding: 20px;
 }
 
