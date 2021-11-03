@@ -1,7 +1,10 @@
 header{
 	background-color: #808080
+	margin: auto;
+	width: 50%;
+	padding: 10px;
 }
 
-main-body {
+.main-body {
 	background-color: #c0c0c0
 }
